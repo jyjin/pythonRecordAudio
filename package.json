@@ -1,0 +1,21 @@
+{
+  "name": "recordradio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "play": "python play.py ./wav/save-world.wav",
+    "record": "python record.py",
+    "start": "python wire.py"
+  },
+  "keywords": [
+    "pyaudio",
+    "audio",
+    "record",
+    "audio",
+    "play"
+  ],
+  "author": "jyjin",
+  "license": "ISC"
+}
